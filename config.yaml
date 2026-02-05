@@ -1,0 +1,38 @@
+company:
+  name: Evolvra
+  description: "Evolvra helps modern businesses scale with digital marketing, AI automation, CRM workflows, and content systems that make growth repeatable."
+  target_markets:
+    - Sri Lanka
+    - Australia
+    - Malaysia
+    - Canada
+  cta_line: "DM 'Evolvra' for a quick audit"
+  cta_email: "info@evolvra.lk"
+
+author:
+  name: Bhanuka Kariyawasam
+  bio: "Director, founder, and operator with a background in international business, operations, and AI. Based in Sri Lanka with global experience across AU, MY, and CA. Interested in ML, AI, Buddhism, and critical thinking."
+
+style:
+  tone_rules: "Clear, non-fluffy, slightly witty but professional. Use short sentences where helpful. No em dashes."
+  banned_phrases:
+    - "game-changer"
+    - "crush it"
+    - "hack"
+
+generation:
+  model: "gpt-4o-mini"
+  max_output_tokens: 2200
+  temperature: 0.7
+
+content:
+  default_platform: "linkedin"
+  default_words: 1200
+  default_tone: "smart, friendly, practical"
+  pillars:
+    - AI automation
+    - digital marketing systems
+    - operations excellence
+    - data/analytics
+    - founder lessons
+    - Sri Lanka-to-global perspective
